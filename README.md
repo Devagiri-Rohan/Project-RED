@@ -7,7 +7,8 @@
 * As of now, we used the classes in the coco dataset to classify the detected vehicles into classes but in future we are looking forward to categorise them based on the NHAI classification into 16 classes
 * Created a dashboard to update the list of vehicles passisng through an imaginary line drawn on screen 
 
-
+## To Download 
+* You can directly use the notebook in Google colab or PC, modify the output path with the path where the output need to be stored
 
 
 ```
